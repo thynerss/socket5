@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # === Cấu hình người dùng proxy ===
-USERNAME="proxyuser"
-PASSWORD="StrongPass123!"
+USERNAME="Vessy"
+PASSWORD="AdminThynerss"
 
 # === Cài đặt Dante ===
 apt update
